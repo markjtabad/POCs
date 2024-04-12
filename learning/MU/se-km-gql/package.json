@@ -1,0 +1,31 @@
+{
+  "name": "mu-se-ph-08-abadmar-km-gql",
+  "version": "1.0.0",
+  "description": "Repo for MUSE Cohort KM (GraphQL)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src",
+    "dev": "nodemon src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manulife-ca-sandbox/mu-se-ph-08-abadmar-km-gql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manulife-ca-sandbox/mu-se-ph-08-abadmar-km-gql/issues"
+  },
+  "homepage": "https://github.com/manulife-ca-sandbox/mu-se-ph-08-abadmar-km-gql#readme",
+  "dependencies": {
+    "apollo-server": "^3.4.0",
+    "graphql": "^15.7.0",
+    "node-fetch": "^2.6.5",
+    "nodemon": "^2.0.14"
+  },
+  "engines": {
+    "node": "12.22.2"
+  }
+}

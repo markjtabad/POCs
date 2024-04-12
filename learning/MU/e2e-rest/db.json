@@ -1,0 +1,36 @@
+{
+  "games": [
+    {
+      "id": "ba462cb1-0b13-456b-a54c-e3e3ad9bf0dc",
+      "game": "[[\"m_score1\",17],[\"m_score2\",15],[\"player1Name\",\"Steve Holt\"],[\"player2Name\",\"Kitty Sanchez\"]]",
+      "player1id": "d2b421c7-d6fd-4bb5-a9ce-731a7bae3271",
+      "player2id": "ee6900ae-3eae-4e90-b117-4dca8c9b135d"
+    }
+  ],
+  "players": [
+    {
+      "id": "3235ed10-c9ca-4736-996f-c02d34b1d49f",
+      "name": "Cindi Lightballoon"
+    },
+    {
+      "id": "d2b421c7-d6fd-4bb5-a9ce-731a7bae3271",
+      "name": "Steve Holt"
+    },
+    {
+      "id": "ee6900ae-3eae-4e90-b117-4dca8c9b135d",
+      "name": "Kitty Sanchez"
+    },
+    {
+      "id": "42ecdae1-3dd6-4970-9e88-91ab69efc96e",
+      "name": "Bob Loblaw"
+    },
+    {
+      "id": "e4b4ba18-2d12-4622-88cc-9a76f0dbd3f8",
+      "name": "J. Walter Weatherman"
+    },
+    {
+      "id": "00e2bfab-2097-4c2d-9a6a-401dbab72e1f",
+      "name": "Lucille Austero"
+    }
+  ]
+}

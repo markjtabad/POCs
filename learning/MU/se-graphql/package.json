@@ -1,0 +1,31 @@
+{
+  "name": "mu-se-ph-08-abadmar-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src",
+    "start:dev": "nodemon src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manulife-ca-sandbox/mu-se-ph-08-abadmar-graphql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manulife-ca-sandbox/mu-se-ph-08-abadmar-graphql/issues"
+  },
+  "homepage": "https://github.com/manulife-ca-sandbox/mu-se-ph-08-abadmar-graphql#readme",
+  "dependencies": {
+    "apollo-server": "^3.4.0",
+    "graphql": "^15.6.1",
+    "node-fetch": "^2.6.5",
+    "nodemon": "^2.0.13"
+  },
+  "engines": {
+    "node": "12.22.2"
+  }
+}

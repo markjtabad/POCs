@@ -1,0 +1,24 @@
+{
+    "instance_limits": {
+            "min": 1,
+            "max": 2
+        },
+        "rules": [
+            {
+                "rule_type": "memory",
+                "rule_sub_type": "",
+                "threshold": {
+                    "min": 50,
+                    "max": 70
+                }
+            },
+            {
+                "rule_type": "cpu",
+                "rule_sub_type": "",
+                "threshold": {
+                    "min": 50,
+                    "max": 70
+                }
+            }
+        ]
+}

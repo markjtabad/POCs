@@ -1,0 +1,7 @@
+applications:
+- name: mu-se-ph-08-team3-rest-tst
+  routes:
+    - route: mu-se-ph-08-team3-rest-tst.apps.cac.preview.pcf.manulife.com
+  buildpacks:
+    - nodejs_buildpack
+  memory: 64M

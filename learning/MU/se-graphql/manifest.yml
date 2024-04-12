@@ -1,0 +1,9 @@
+applications:
+  #DEV
+  - name: mu-se-ph-08-abadmar-graphql
+    memory: 128M
+    instances: 1
+    buildpacks:
+      - nodejs_buildpack
+    env:
+      NODE_ENV: development

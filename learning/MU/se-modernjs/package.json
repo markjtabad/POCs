@@ -1,0 +1,26 @@
+{
+  "name": "mu-se-labs-08-abadmar-modernjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "import": "node -r esm src/index.js",
+    "asynch": "node -r esm src/asynch.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manulife-ca-sandbox/mu-se-labs-08-abadmar-modernjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manulife-ca-sandbox/mu-se-labs-08-abadmar-modernjs/issues"
+  },
+  "homepage": "https://github.com/manulife-ca-sandbox/mu-se-labs-08-abadmar-modernjs#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "node-fetch": "^2.6.5"
+  }
+}

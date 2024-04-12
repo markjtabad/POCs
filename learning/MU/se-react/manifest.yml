@@ -1,0 +1,7 @@
+applications:
+  #DEV
+  - name: mu-se-ph-08-abadmar-react
+    memory: 128M
+    buildpacks:
+      - staticfile_buildpack
+    path: "./build"

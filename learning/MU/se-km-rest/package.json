@@ -1,0 +1,30 @@
+{
+  "name": "mu-se-ph-08-abadmar-km-rest",
+  "version": "1.0.0",
+  "description": "Repo for MUSE Cohort KM (Rest API)",
+  "main": "employees.js",
+  "scripts": {
+    "start": "node -r esm src",
+    "dev": "nodemon -r esm src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manulife-ca-sandbox/mu-se-ph-08-abadmar-km-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manulife-ca-sandbox/mu-se-ph-08-abadmar-km-rest/issues"
+  },
+  "homepage": "https://github.com/manulife-ca-sandbox/mu-se-ph-08-abadmar-km-rest#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "esm": "^3.2.25",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}

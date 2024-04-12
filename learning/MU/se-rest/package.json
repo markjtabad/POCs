@@ -1,0 +1,31 @@
+{
+  "name": "mu-se-labs-08-abadmar-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r esm src",
+    "dev": "nodemon -r esm src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manulife-ca-sandbox/mu-se-labs-08-abadmar-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manulife-ca-sandbox/mu-se-labs-08-abadmar-rest/issues"
+  },
+  "homepage": "https://github.com/manulife-ca-sandbox/mu-se-labs-08-abadmar-rest#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "swagger-ui-express": "^4.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}

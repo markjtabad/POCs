@@ -1,0 +1,7 @@
+applications:
+  #DEV
+  - name: mu-se-ph-08-abadmar-km-ui
+    memory: 128M
+    buildpacks:
+      - staticfile_buildpack
+    path: "./build"
